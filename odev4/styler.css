@@ -1,0 +1,77 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+.anaDiv{
+    width:1050px;
+    height:700px;
+    margin: auto;
+}   
+.tabloBaslik{
+    margin-bottom:24px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 455;
+    color: rgb(19, 23, 23);
+    font-size: 20px;
+}
+.table{
+    border-radius: 12px;
+    border-collapse: collapse;
+    border: 1px solid rgb(239, 243, 242);
+}
+.yaziTablo{
+    padding: 16px;
+    color: rgba(19, 23, 23, 0.86);
+    font-size: 14px;
+    text-align: left;
+    line-height: 20px;
+}
+.satirbir{
+    background-color: rgb(248, 250, 249) !important;
+}
+.satiriki{
+    font-size: 16px;
+    line-height: 30px;
+    background-color: rgb(255, 255, 255) !important;
+}
+.yaziOrtak{
+    margin-left:10px;
+}
+.maliYaziDiv{
+    margin-top:8px;
+    margin-left:10px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    color: rgb(114, 126, 124);
+}
+.soruSaranDiv{
+    margin-top: 60px;
+
+}
+.soruYazi{
+    line-height: 33px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    color: rgb(19, 23, 23);
+    font-size: 20px;
+}
+.soruTabloDiv{
+    padding: 0px 24px;
+    border-radius: 8px;
+    border:1px solid rgb(239, 243, 242);
+}
+.tablo{
+    font-size:14px;
+    font-family:arial;
+    font-weight: 50px;
+    height: 10px;
+    padding: 38px 0px 26px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom:1px solid rgb(239, 243, 242);
+}
+.tablo:hover{
+    cursor:pointer;
+}
+
+
